@@ -8,6 +8,7 @@ Code Example:<br>
 ```py
 from urbandictionaryapi import UrbanDictionary
 
-UrbanDictionary.search('word')
-UrbanDictionary.author()
+api = UrbanDictionary()
+api.search('word')
+api.author()
 ```
