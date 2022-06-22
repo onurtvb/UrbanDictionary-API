@@ -2,7 +2,7 @@
 
  This is an unofficial UrbanDictionary API.
  
-Visit PyPi page: <a href="https://pypi.org/project/urbandictionaryapi/">https://pypi.org/project/urbandictionaryapi/</a><br>
+Visit PyPi page: https://pypi.org/project/urbandictionaryapi/
 Install via pip: <strong>pip install urbandictionaryapi</strong><br><br>
 Code Example:<br>
 ```py
